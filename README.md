@@ -3,7 +3,8 @@ This repository holds React.js projects with an emphasis on developing clear and
 This is a react application developed in a means to create a better Apple IOS calculator.
 
 Run Instructions:
-Open index.html file in Chrome/Safari browser.
+
+Clone/Download file, Open index.html file in Chrome/Safari browser.
 
 or
     
