@@ -17,6 +17,6 @@ npm start
 # PWA Notes App (Node.js)
 <img src="https://sii.im/playground/notes/notes-ss.png" alt="Notes app" width='370px'>
 
-# Infomation Card app (React.js)
+# Infomation Card App (React.js)
 
 ![](Info%20Card%20(React)/hover.png)
