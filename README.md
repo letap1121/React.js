@@ -20,4 +20,4 @@ npm start
 
 
 
-![](Calculator/images/screenshot1.png)
+![](Info%20Card%20(React)/hover.png)
