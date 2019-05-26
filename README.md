@@ -12,4 +12,4 @@ npm install
 npm start 
 
 
-![](images/screenshot.png)
+![](Calculator/images/screenshot.png)
