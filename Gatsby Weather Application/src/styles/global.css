@@ -1,0 +1,71 @@
+html {
+  background-color: #f4f4f4;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+h1,
+h2 {
+  font-weight: normal;
+}
+
+h2 {
+  display: inline;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4CAF50;
+}
+
+.mx {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+div #main {
+  margin: 0 auto;
+  margin-top: 50px;
+  max-width: 800px;
+  padding: 25px;
+  padding-top: 4px;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 15px;
+  text-align: left;
+}
+
+table {
+  width: 100%;
+  background-color: #f1f1c1;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #3e8e41;
+}
